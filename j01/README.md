@@ -7,7 +7,7 @@ Recently I was looking on Amazon at various different types of shavers and trimm
 
 Image from the [Philips Norelco Website](https://www.usa.philips.com/c-p/MG3750_60/norelco-multigroom-3000-multipurpose-trimmer)
 
-![trimmer](https://github.com/UsabilityEngineering/ux-portfolio-bryanjbrooks/blob/master/assets/images/shaver.jpeg)
+![trimmer](shaver.jpeg)
 
 The trimmer was very **learnable**. It is very similar to other hair clippers/trimmers I have used in the past, with the attachments being easy to clean, and change. My **mental model** of how I expected the change of attachments to work matched the **conceptual model** of how they actually worked, leading me to more easily **remember** how to change them when I want to.
 
