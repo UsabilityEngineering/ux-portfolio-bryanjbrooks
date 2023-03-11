@@ -1,5 +1,7 @@
 # Bryan's UX Portfolio
 
+![selfie](../assets/images/selfie.JPG)
+
 My name is Bryan Brooks, I am a Computer Science Major transfer from Butte College and I am orinally from the South Bay Area.
 
 My interestes include hiking, camping, riding my electric scooter, working on cars, and playing video games.
