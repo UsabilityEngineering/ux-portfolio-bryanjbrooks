@@ -5,8 +5,9 @@ For years, I have used a set of corded hair clippers/trimmers to shave my facial
 
 Recently I was looking on Amazon at various different types of shavers and trimmers. I came across the Philips Norelco Multigroom 3000 13 piece all-in-one trimmer. It looked like it would be well suited for my needs and the reviews were pretty decent. It wasn't too bulky, and had a few different styles of attachments. However, I was a little bit skeptical that it was rechargeable. A couple of days later I happened to be at Target and I decided to see if they had it in stock. They did, and it was actually slightly cheaper than on Amazon, so I decided to pick it up and give it a try. However, I was still skeptical given I have never had good luck with rechargeable trimmers and shavers in the past, but this one was boasting a lithium-ion battery with a 60 minute run time, and high-powered motor, so I figured I would give it a try.
 
+Taken from the Philips website:[^1]
 ![shaver](/assets/shaver.jpeg)
-Taken from the Philips website[^1]
+
 
 The trimmer was very **learnable**. It is very similar to other hair clippers/trimmers I have used in the past, with the attachments being easy to clean, and change. My **mental model** of how I expected the change of attachments to work matched the **conceptual model** of how they actually worked, leading me to more easily **remember** how to change them when I want to.
 
