@@ -15,3 +15,5 @@ After I graduate, I would like to work on the embedded systems in vehicles and h
 ## UX Journal
 
 [Is it actually charging??](j01/)
+
+[Is it actually charging?? (Revised)](j02/)
