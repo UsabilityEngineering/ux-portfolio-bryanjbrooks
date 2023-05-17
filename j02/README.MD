@@ -20,7 +20,7 @@ The biggest issues I encountered using the trimmer was when I went to charge it 
 
 Here is a view of the trimmer with the attachments.
 
-![trimmerAttachments](../assets/images/trimmer_attachments.JPG)
+![trimmerAttachments](../assets/images/trimmer_attachments.jpg)
 
 
 Here is a view of the bottom of the trimmer.
